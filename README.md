@@ -8,8 +8,9 @@
 Em construção.
 
 ## AfroConexões
-
-Em construção.
+O blog AfroConexões é um espaço para fomento da rede de empreendedores e consumidores negres. A camada back-end foi construída através de Java com Spring Boot, o front-end foi construído através do framework Bootstrap. Antes do deploy foi utilizado o banco de dados MySQL e, após deploy, passou a ser o PostgreSQL.
+- Clique aqui para visualizar o repositório do [Github](https://github.com/deniseanjos/afroconexoes);
+- Acesse o deploy da página realizado pelo [Heroku](https://afroconexoes.herokuapp.com/).
 
 ## D&Impact
 Landing page construída em HTML utilizando o framework Bootstrap através do editor VSCode (Visual Studio Code) com validação de formulário através de JavaScript.
