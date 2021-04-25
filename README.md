@@ -1,4 +1,4 @@
-# Portfolio - Denise Anjos
+# Portfólio - Denise Anjos
 
 <p>Bem-vinde ao meu GitHub!</p>
 <p>Aqui você encontrará o resumo dos principais projetos desenvolvidos por mim, sozinha ou colaborativamente.</p>
